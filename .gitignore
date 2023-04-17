@@ -7,3 +7,5 @@
 # files created during data preprocessing
 data/wmp/wmp_final.csv
 data/matches/matches_processed.csv
+.DS_Store
+.Rproj.user
